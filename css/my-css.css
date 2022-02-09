@@ -9,3 +9,16 @@
     width: 100%;
     /* The width is the width of the web page */
   }
+.my-location{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    height: 120px;
+    width: 120px;
+    background-color: aliceblue;
+    border-radius: 50%;
+    text-align: center;
+    justify-content: center;
+    border: 2px black solid;
+    top: 7vh;
+}
